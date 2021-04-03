@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color:white;
+}
+header{
+    display: flex;
+    justify-content:space-between
+}
+nav{
+    text-decoration: underline;
+}
+header img{
+    height: 50px;
+}
+    
+#mission {
+    height: 700px;
+    width: 1200px;
+    background-image: url("./img/img-mission-background.jpg");
+    display: flex;
+    align-items: center;
+}
+#missionH{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
